@@ -1,0 +1,46 @@
+.navbar{
+    padding: 20px 50px;
+    line-height: 20px;
+}
+
+.browse{
+    padding-right:5px;
+}
+.navbar-toggler:focus,button:focus{
+    outline: 0;
+}
+.navbar-toggler{
+    border: 0;
+}
+
+.dropdown-toggle{
+    border: 0;
+    background: 0;
+}
+.btn-group{
+    vertical-align: middle;
+    align-items: center;
+}
+
+.search{
+    border: 1px white solid;
+    color: white;
+    background-image:   url(assets/pngguru.com.png);
+    
+    background-repeat: no-repeat;
+    background-position: center left 7px;
+    background-color: #343a40;
+    padding-left: 34px;
+}
+
+.user-logo{
+    width:30px;
+    height:30px;
+    border-radius: 50%;
+}
+
+.dropDown{
+    border: 0;
+    background: 0;
+        white-space: nowrap;
+}
